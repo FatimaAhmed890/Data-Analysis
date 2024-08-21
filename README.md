@@ -2,6 +2,8 @@
 
 ## Sales Insights Data Analysis Project
 
+![image](https://github.com/user-attachments/assets/9dcdbc53-7139-468b-b6ae-457b18ed52e8)
+
 
 ### Data Analysis Using SQL
 
